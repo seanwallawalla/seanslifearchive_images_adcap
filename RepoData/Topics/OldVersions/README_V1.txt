@@ -1,0 +1,16 @@
+android
+pictures
+screenshots
+jpg
+gplv3
+images
+archive
+stock-images
+md
+txt
+gpl3
+adventure-capitalist
+seanpm2001-life-archive
+git-image
+adcap
+hyperhippo
